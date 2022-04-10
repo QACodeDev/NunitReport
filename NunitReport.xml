@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<test-run id="522471" engine-version="3.11.1.0" clr-version="4.0.30319.42000" testcasecount="1" runstate ="Runnable" result="Passed" total="1" passed="1" failed="0" warnings ="0" skipped="0" start-time="2022-04-10 12:35:31Z" end-time="2022-04-10 12:36:34Z" duration="63.657">
+<test-suite type="Assembly" id="857416" name="Demo Tests" fullname="Demo Tests" testcasecount="1" runstate="Runnable" result="Passed" total="1" passed ="1" failed ="0" warnings="0" skipped="0" start-time="2022-04-10 12:35:31Z" end-time="2022-04-10 12:36:34Z" duration="63.657">
+<test-suite type="TestSuite" id="857416" name="Demo Tests" fullname="Demo Tests" testcasecount="1" runstate="Runnable" result="Passed" total="1" passed ="1" failed ="0" warnings="0" skipped="0" start-time="2022-04-10 12:35:31Z" end-time="2022-04-10 12:36:34Z" duration="63.657">
+<test-case id="1158" name="Demo_Test" fullname="Demo_Test" runstate="Runnable" result="Passed"  duration="58.452" classname="com.qautomation.testcases.demoTest">
+<attachments>
+<attachment>
+<filePath>C:\Users\mnazim\Desktop\HTMLReport\Report.zip</filePath>
+</attachment>
+</attachments>
+ </test-case>
+</test-suite>
+</test-suite>
+</test-run>
