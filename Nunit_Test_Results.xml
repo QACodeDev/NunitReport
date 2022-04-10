@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<test-run id="522471" engine-version="3.11.1.0" clr-version="4.0.30319.42000" testcasecount="1" runstate ="Runnable" result="Passed" total="1" passed="1" failed="0" warnings ="0" skipped="0" start-time="2022-04-10 12:35:31Z" end-time="2022-04-10 12:36:34Z" duration="63.657">
+<test-suite type="Assembly" id="857416" name="Suite Demo Tests" fullname="Suite Demo Tests" testcasecount="1" runstate="Runnable" result="Passed" total="1" passed ="1" failed ="0" warnings="0" skipped="0" start-time="2022-04-10 12:35:31Z" end-time="2022-04-10 12:36:34Z" duration="63.657">
+<test-suite type="TestSuite" id="857416" name="Suite Demo Tests" fullname="Suite Demo Tests" testcasecount="1" runstate="Runnable" result="Passed" total="1" passed ="1" failed ="0" warnings="0" skipped="0" start-time="2022-04-10 12:35:31Z" end-time="2022-04-10 12:36:34Z" duration="63.657">
+<test-case id="1158" name="TC1_DemoTest" fullname="TC1_DemoTest" runstate="Runnable" result="Passed"  duration="58.452" classname="com.qautomation.testcases.demoTest">
+ </test-case>
+ <test-case id="1159" name="TC2_DemoTest" fullname="TC2_DemoTest" runstate="Runnable" result="Failed"  duration="58.452" classname="com.qautomation.testcases.demoTest">
+<failure>
+<message><![CDATA[Error details here]]></message>
+<stack-trace><![CDATA[Exception details here]]></stack-trace>"
+</failure>
+ </test-case>
+</test-suite>
+</test-suite>
+</test-run>
