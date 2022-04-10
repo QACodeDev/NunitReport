@@ -5,7 +5,7 @@
 <test-case id="1158" name="TC1_DemoTest" fullname="TC1_DemoTest" runstate="Runnable" result="Passed"  duration="58.452" classname="com.qautomation.testcases.demoTest">
 <attachments>
 <attachment>
-<filePath>C:\Users\mnazim\Desktop\HTMLReport\TC1_Report.zip</filePath>
+<filePath>D:\a\1\s\TestReport\TC1_Report.zip</filePath>
 </attachment>
 </attachments>
  </test-case>
@@ -16,7 +16,7 @@
 </failure>
 <attachments>
 <attachment>
-<filePath>C:\Users\mnazim\Desktop\HTMLReport\TC2_Report.zip</filePath>
+<filePath>D:\a\1\s\TestReport\TC2_Report.zip</filePath>
 </attachment>
 </attachments>
  </test-case>
